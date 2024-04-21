@@ -1,7 +1,9 @@
 # flask-docker
 #####
 1) docker-compose up
+   
 2) docker run -it --rm --network flask_kinan_default postgres psql -h flask_kinan-postgress_server-1 -U postgres
+   
 3) create database usersdb;
 #####
 
